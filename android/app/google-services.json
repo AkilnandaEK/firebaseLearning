@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417371082563",
+    "project_id": "practice-f1cbd",
+    "storage_bucket": "practice-f1cbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417371082563:android:a54c0655d84cb6464f69f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmHRNICn9dbmA8TsGPbur5lTv-LFVWuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
